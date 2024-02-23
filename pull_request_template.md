@@ -9,4 +9,4 @@ Este template de Pull Request ajuda a revisar o código de forma fácil e segura
 
 | Antes | Depois |
 | --- | --- |
-| ![Antes](https://github.com/alvesalec/pratica_devops/blob/b0d22035bb37613496c354a33457a7925d6949ed/templatePullRequest/MicrosoftTeams-image%20(2).png) | ![Depois](https://github.com/alvesalec/pratica_devops/blob/b0d22035bb37613496c354a33457a7925d6949ed/templatePullRequest/MicrosoftTeams-image%20(3).png) |
+| <img width="500" alt="image" src="https://github.com/alvesalec/pratica_devops/blob/main/PULL_REQUEST_TEMPLATE/MicrosoftTeams-image%20(2).png?raw=true"> | <img width="500" alt="image" src="https://github.com/alvesalec/pratica_devops/blob/main/MicrosoftTeams-image%20(3).png?raw=true"> |
