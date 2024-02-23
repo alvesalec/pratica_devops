@@ -1,4 +1,4 @@
-
+  
 # Estudo de pandas
 
 Este projeto é um estudo compartilhado com meu colega sobre a biblioteca pandas para entendermos manipulação de DataFrame em python. 
