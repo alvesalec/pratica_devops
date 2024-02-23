@@ -1,10 +1,10 @@
-
+  
 # Estudo de pandas
 
 Este projeto é um estudo compartilhado com meu colega sobre a biblioteca pandas para entendermos manipulação de DataFrame em python. 
 
 
-## 🚀 Sobre mim
+## 🚀 Sobre mimhttps://github.com/alvesalec/pratica_devops/blob/main/README.md
 Eu sou um aluno de análise de dados com foco em dominar processos de IA...
 
 
